@@ -1,10 +1,9 @@
-import { Title, Wrapper } from './AppStyled'
 
 function App() {
   return (
-    <Wrapper>
-      <Title>Hello World!</Title>
-    </Wrapper>
+    
+      <h1>Hello World!</h1>
+    
   )
 }
 
